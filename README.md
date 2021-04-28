@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MANU-de
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently Learning Java and JavaEE ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : manuelaschrittwieser@yahoo.com 
+- 🌱 I’m currently Learning programming ...
+
+
 
 <!---
 MANU-de/MANU-de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
