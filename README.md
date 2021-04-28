@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MANU-de
+- 👋 Hi, I’m Manuela 
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently Learning programming ...
+- 👩‍💻 I am learning and doing programming ...
 
 
 
