@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Manuela 
-- 👀 I’m interested in Software Development 
+- 🌱 I am currently 
+        doing my apprenticeship 
+        as an application developer.
 - 👩‍💻 I am learning and doing programming ...
 
 
