@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Manuela 
-- 🌱 I am currently 
-        doing my apprenticeship 
-        as an application developer.
+- 👋 Hi, I’m Manuela ...
+- 🌱 I am a junior backend developer ...
 - 👩‍💻 I am learning and doing programming ...
 
 
