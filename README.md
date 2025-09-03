@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 I'm a developer and writer passionate about making technology accessible and understandable. With a foundation in **Full-Stack Development**. My journey has led me to the exciting world of Artificial Intelligence, where I specialize in building and documenting **Agentic AI Systems**.
 
