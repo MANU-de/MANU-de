@@ -120,7 +120,11 @@ I'm always open to discussing new projects, freelance opportunities, or just cha
 
 <div align="center">
   <p>👇 Find me on 👇</p>
-  <a href="https://www.linkedin.com/in/manuela-schrittwieser/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="manuela_schrittwieser" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.instagram.com/manuelaschrittwieser3/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
   </a>
 </div>
