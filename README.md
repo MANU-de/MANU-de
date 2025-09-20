@@ -24,9 +24,10 @@
 
 ## 👩‍💻 About Me
 
-I'm a developer and writer passionate about making technology accessible and understandable. With a foundation in **Full-Stack Development**. My journey has led me to the exciting world of Artificial Intelligence, where I specialize in building and documenting **Agentic AI Systems**.
+I'm a Developer,AI Trainer and Technical Writer passionate about making technology accessible and understandable. With a foundation in **Full-Stack Development**.
+My journey has led me to the exciting world of Artificial Intelligence, where I specialize in building and documenting **Agentic AI Systems**.
 
-As an **AI Trainer** and **Freelance Developer**, I thrive on empowering teams and clients to build cutting-edge solutions. My goal is simple: to create documentation that is as elegant and functional as the software it describes.
+As an **AI Trainer** and **Freelance Full Stack Developer**, I thrive on empowering teams and clients to build cutting-edge solutions. As a Technical Writer, my goal is simple: to create documentation that is as elegant and functional as the Software it describes.
 
 ---
 
