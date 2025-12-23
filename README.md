@@ -127,5 +127,9 @@ I'm always open to discussing new projects, freelance opportunities, or just cha
   <a href="https://www.instagram.com/manuelaschrittwieser3/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  
+  ### 🌐 Join Me on CoderLegion
+
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Manuela+Schrittwieser) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Manuela+Schrittwieser)
   </a>
 </div>
