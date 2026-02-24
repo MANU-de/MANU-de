@@ -101,9 +101,10 @@ Here are some of the technologies I work with regularly:
 
 ## 🏆 Certifications
 
-- <a href="https://app.readytensor.ai/certificates/cad5c640-d23d-48d8-b123-8bb85d355acb" target="_blank">
-<img src="https://img.shields.io/badge/Certified-LLM FINE-TUNING SPECIALIST-blueviolet?style=flat-square" alt="Certified LLM FINE-TUNING SPECIALIST Badge">
- </a>  LLM Engineering and Deployment Certification Program by Ready Tensor
+ <a href="https://app.readytensor.ai/certificates/cad5c640-d23d-48d8-b123-8bb85d355acb" target="_blank">
+ <img src="https://img.shields.io/badge/Certified-LLM_Fine Tuning_Specialist-orange?style=flat-square" alt="Certified LLM FINE-TUNING SPECIALIST Badge">
+ <br></a>  LLM Engineering and Deployment Certification Program by Ready Tensor
+<br><br>
 
 - <a href="https://app.readytensor.ai/certificates/e11b7f9f-c978-405e-9e71-aed519887d45" target="_blank">
   <img src="https://img.shields.io/badge/Certified-Agentic AI Developer/Engineer-blueviolet?style=flat-square" alt="Certified Agentic AI Developer Badge">
