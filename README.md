@@ -27,7 +27,7 @@
 I'm a Developer,AI Trainer and Technical Writer passionate about making technology accessible and understandable. With a foundation in **Full-Stack Development**.
 My journey has led me to the exciting world of Artificial Intelligence, where I specialize in building and documenting **Agentic AI Systems**.
 
-As an **AI Trainer** and **Freelance Full Stack Developer**, I thrive on empowering teams and clients to build cutting-edge solutions. As a Technical Writer, my goal is simple: to create documentation that is as elegant and functional as the Software it describes.
+As an **AI Trainer** and **Full Stack Developer**, I thrive on empowering teams and clients to build cutting-edge solutions. As a Technical Writer, my goal is simple: to create documentation that is as elegant and functional as the Software it describes.
 
 ---
 
@@ -101,6 +101,10 @@ Here are some of the technologies I work with regularly:
 
 ## 🏆 Certifications
 
+- <a href="https://app.readytensor.ai/certificates/cad5c640-d23d-48d8-b123-8bb85d355acb" target="_blank">
+  <img src="https://img.shields.io/badge/Certified-LLM FINE-TUNING SPECIALIST-blueviolet?style=flat-square" alt="Certified LLM FINE-TUNING SPECIALIST Badge">
+ </a>  LLM Engineering and Deployment Certification Program by Ready Tensor
+
 - <a href="https://app.readytensor.ai/certificates/e11b7f9f-c978-405e-9e71-aed519887d45" target="_blank">
   <img src="https://img.shields.io/badge/Certified-Agentic AI Developer/Engineer-blueviolet?style=flat-square" alt="Certified Agentic AI Developer Badge">
  </a>  Agentic AI Developer Certification Program by Ready Tensor
@@ -117,7 +121,7 @@ Here are some of the technologies I work with regularly:
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing new projects, freelance opportunities, or just chatting about the future of tech and AI. Feel free to reach out!
+I'm always open to discussing new projects, opportunities or just chatting about the future of tech and AI. Feel free to reach out!
 
 <div align="center">
   <p>👇 Find me on 👇</p>
