@@ -1,140 +1,101 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ4dm91MXJyZGIzeTdvM2swOHV6MTNzbDg0eW9qY3RqemQwZnlvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c5wbvuaVVLWzC/giphy.gif" width="300"/> 
-</div>
+  <img width="1983" height="793" alt="github" src="https://github.com/user-attachments/assets/f96783c1-2051-488f-a633-cfb538d0f85f" />
+ </div>
 
-<div id="title" align="center">
-  <h1>Hi, I'm Manuela 👋</h1>
-  <h3>Bridging the gap between complex code and clear communication.</h3>
-  <p> Certified Agentic AI Developer | Full-Stack Development | Technical Writer </p>
-</div>
+# 👋 Hi, I'm Manuela Schrittwieser 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/manuela-schrittwieser/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://app.readytensor.ai/users/manuelaschrittwieser" target="_blank">
-    <img src="https://img.shields.io/badge/Ready Tensor-turquoise?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="mailto:manuelaschrittwieser99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
+## AI Security Engineer | Agentic AI Systems | Open-Source Research
+
+Building secure AI systems, autonomous agents, and defensive infrastructure for next-generation LLM applications.
 
 ---
 
-## 👩‍💻 About Me
+## Focus Areas
 
-I'm a Developer, AI Trainer and Technical Writer passionate about making technology accessible and understandable. With a foundation in **Full-Stack Development**.
-My journey has led me to the exciting world of Artificial Intelligence, where I specialize in building and documenting **Agentic AI Systems**.
-
-As an **AI Trainer** and **Full Stack Developer**, I thrive on empowering teams and clients to build cutting-edge solutions. As a Technical Writer, my goal is simple: to create documentation that is as elegant and functional as the Software it describes.
-
----
-
-## ✨ My Core Competencies
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      ✍️ Technical Writing & Documentation :
-      <ul>
-        <li>API Documentation (OpenAPI/Swagger, ReDoc)</li>
-        <li>Developer Guides & Tutorials</li>
-        <li>SDK & Library Documentation</li>
-        <li>Architectural Diagrams & Whitepapers</li>
-        <li>Content Strategy for Developer Portals</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      🧠 AI Development & Training : 
-      <ul>
-        <li>Agentic AI System Design (e.g., using LangChain, LlamaIndex)</li>
-        <li>LLM Integration & Fine-Tuning</li>
-        <li>AI Workflow Automation</li>
-        <li>Prompt Engineering</li>
-        <li>Conducting technical workshops and training sessions</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- AI Security Engineering
+- Agentic AI & Autonomous Systems
+- LLM Application Security
+- Prompt Injection Defense
+- RAG Security & Memory Isolation
+- AI Infrastructure & Orchestration
+- Secure Multi-Agent Architectures
+- Open-Source AI Tooling
 
 ---
 
-## 🛠️ My Tech Stack & Tools
+## Current Mission
 
-Here are some of the technologies I work with regularly:
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <strong>Frontend</strong><br><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    </td>
-    <td align="center" width="150">
-      <strong>Backend</strong><br><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-    </td>
-    <td align="center" width="150">
-      <strong>AI / ML</strong><br><br>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/LangChain-222222?style=for-the-badge" alt="LangChain">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-    </td>
-    <td align="center" width="150">
-      <strong>Databases & DevOps</strong><br><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    </td>
-  </tr>
-</table>
+Designing and researching secure architectures for AI agents, tool-using LLM systems, and production-grade autonomous workflows.
 
 ---
 
-## 🏆 Certifications
+## Open-Source Ecosystem
 
- <a href="https://app.readytensor.ai/certificates/cad5c640-d23d-48d8-b123-8bb85d355acb" target="_blank">
- <img src="https://img.shields.io/badge/Certified-LLM_Fine Tuning_Specialist-orange?style=flat-square" alt="Certified LLM FINE-TUNING SPECIALIST Badge">
- <br></a>  LLM Engineering and Deployment Certification Program by Ready Tensor
-<br><br>
+### Core Projects
 
-- <a href="https://app.readytensor.ai/certificates/e11b7f9f-c978-405e-9e71-aed519887d45" target="_blank">
-  <img src="https://img.shields.io/badge/Certified-Agentic AI Developer/Engineer-blueviolet?style=flat-square" alt="Certified Agentic AI Developer Badge">
- </a>  Agentic AI Developer Certification Program by Ready Tensor
-
-- <a href="https://app.readytensor.ai/certificates/900c3881-1542-4ae9-a673-eb61d3090f75" target="_blank">
-  <img src="https://img.shields.io/badge/Certified-Agentic AI Builder-yellow?style=flat-square" alt="Certified Agentic AI Developer Badge">
-</a>  Agentic AI Developer Certification Program by Ready Tensor
-
-- <a href="https://app.readytensor.ai/certificates/5302fdf9-4337-4bfc-a55c-1a274f909a0c" target="_blank">
-  <img src="https://img.shields.io/badge/Certified-Agentic AI Rag Expert-green?style=flat-square" alt="Certified Agentic AI Developer Badge">
-</a>  Agentic AI Developer Certification Program by Ready Tensor
+| Project | Description |
+|---|---|
+| AI Agent Security Playground | Experimental environment for prompt injection, tool hijacking, memory poisoning, and mitigation research |
+| Autonomous AI Systems Lab | Multi-agent orchestration and secure execution frameworks |
+| Structured Data Extractor | AI-powered structured extraction pipelines |
+| RAG Security Research | Secure retrieval architectures and adversarial testing |
+| SQL Agent Systems | Autonomous SQL analysis and query agents |
 
 ---
 
-## 📫 Let's Connect!
+## Security Research Topics
 
-I'm always open to discussing new projects, opportunities or just chatting about the future of tech and AI. Feel free to reach out!
+- Prompt Injection Attacks
+- Agent Hijacking
+- Tool Abuse Prevention
+- Secure Tool Routing
+- Sandboxed AI Execution
+- Memory Poisoning
+- Adversarial RAG Attacks
+- LLM Observability
+- AI Threat Modeling
 
-<div align="center">
-  <p>👇 Find me on 👇</p>
-  <a href="https://discord.com/@manuela_schrittwieser" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://www.instagram.com/manuelaschrittwieser/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+---
+
+## Engineering Stack
+
+### AI / ML
+Python • PyTorch • Transformers • LangChain • LlamaIndex • Ollama • OpenAI API • HuggingFace
+
+### Infrastructure
+Docker • Kubernetes • FastAPI • Redis • PostgreSQL • Vector Databases
+
+### Security
+OWASP • Threat Modeling • Secure Agent Design • Sandboxing • Isolation Architectures
+
+### DevOps
+GitHub Actions • CI/CD • Linux • API Design • Monitoring
+
+---
+
+## Featured Research & Articles
+
+- Agent Hijacking: The Next Major Attack Vector
+- Securing Autonomous AI Systems
+- RAG Security Architecture Patterns
+- Defensive Design for Multi-Agent Systems
+
+---
+
+## GitHub Goals
+
+Building an open-source ecosystem focused on secure autonomous AI systems and AI security engineering research.
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/manuela-schrittwieser/
+- GitHub: https://github.com/MANU-de
+
+---
+
+> "AI systems will become infrastructure. Secure AI systems will become critical infrastructure."
+
+
   
-  ### 🌐 Join Me on CoderLegion
-
-[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Manuela+Schrittwieser) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Manuela+Schrittwieser)
-  </a>
-</div>
