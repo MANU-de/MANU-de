@@ -92,6 +92,8 @@ Building an open-source ecosystem focused on secure autonomous AI systems and AI
 
 - LinkedIn: https://www.linkedin.com/in/manuela-schrittwieser/
 - GitHub: https://github.com/MANU-de
+<br>
+<a href="https://lounge.ai/@manuelaschrittwieser"><img src="https://lounge.ai/api/badge/manuelaschrittwieser" alt="Manuela Schrittwieser on Lounge" height="28"></a>
 
 ---
 
