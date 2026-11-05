@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Manuela Schrittwieser 
 
-## AI Security Engineer | Agentic AI Systems | Open-Source Research
+## AI Security Engineering | Agentic AI Systems | Open-Source Research
 
 Building secure AI systems, autonomous agents, and defensive infrastructure for next-generation LLM applications.
 
